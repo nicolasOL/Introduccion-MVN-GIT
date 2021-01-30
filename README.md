@@ -8,7 +8,7 @@
  
 ## Diseño
 
-  This is the intended design for this project
+  Aqui podemos ver el diseño de la LinkedList implementada (Usando Collections).
   
   ![Diseño](https://github.com/nicolasOL/Introduccion-MVN-GIT/blob/master/images/Design.png)
   
