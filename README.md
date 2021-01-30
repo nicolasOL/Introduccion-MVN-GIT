@@ -49,8 +49,7 @@ ver el código en acción :
 ```
 mvn exec:java -Dexec.mainClass="edu.escuelaing.arem.introduccion.main"
 ```
-Los datos del programa provienen de algún archivo de texto 
-con números decimales.
+Los datos del programa provienen de la entrada encontrada en las siguientes imagenes
    
 ## Pruebas   
 Para ejecutar las pruebas es necesario ejecutar:
@@ -82,7 +81,7 @@ Pruebas ejecutandose satisfactoriamente:
 ## Java Documentation
   
 In order to get additional information about this project you can use JavaDoc to get the Documentation.
-The documentation of this project is located in this [site]()
+The documentation of this project is located in this [site](https://github.com/nicolasOL/Introduccion-MVN-GIT/tree/master/Doc)
   
   ## Author
   
