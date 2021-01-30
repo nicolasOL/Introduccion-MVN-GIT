@@ -78,15 +78,14 @@ Pruebas ejecutandose satisfactoriamente:
 
      
     
-## Java Documentation
+## Documentacion
   
-In order to get additional information about this project you can use JavaDoc to get the Documentation.
-The documentation of this project is located in this [site](https://github.com/nicolasOL/Introduccion-MVN-GIT/tree/master/Doc)
+Para encontrar toda la documentación relacionada puedes hacer click [aqui](https://github.com/nicolasOL/Introduccion-MVN-GIT/tree/master/Doc)
   
-  ## Author
+  ## Autor
   
   Nicolas Ortega Limas
   
-  ## License
+  ## Licensia
   
   This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](https://github.com/nicolasOL/Introduccion-MVN-GIT/blob/master/LICENSE.txt)
