@@ -6,7 +6,7 @@
 package edu.escuelaing.arem.introduccion.linkedlist;
 
 /**
- *
+ * Clase nodo a ser usada por la linked list
  * @author Nicolas Ortega
  * @param <E>
  */
@@ -16,6 +16,10 @@ public class Node<E> {
     private Node<E> priorNode;
 
     
+    /**
+     * Constructor
+     * @param value
+     */
     public Node(E value){
         this.value = value;
         nextNode = null;
@@ -23,11 +27,19 @@ public class Node<E> {
     }
 
     
+    /**
+     * Acomoda el siguiente nodo
+     * @return
+     */
     public E getValue() {
         return value;
     }
 
     
+    /**
+     * Devuelve el siguiente nodo
+     * @return
+     */
     public E nextValue(){
         E res;
         if (nextNode!=null){
@@ -39,21 +51,37 @@ public class Node<E> {
     }
 
     
+    /**
+     * Devuelve el siguiente nodo
+     * @return
+     */
     public Node<E> getNextNode(){
         return nextNode;
     }
 
     
+    /**
+     * Devuelve el nodo prioritario
+     * @return
+     */
     public Node<E> getPriorNode(){
         return priorNode;
     }
 
     
+    /**
+     * Acomoda el siguiente nodo
+     * @param node
+     */
     public void setNextNode(Node<E> node){
         nextNode = node;
     }
 
     
+    /**
+     * Selecciona el nodo prioritario
+     * @param node
+     */
     public void setPriorNode(Node<E> node){
         priorNode = node;
     }

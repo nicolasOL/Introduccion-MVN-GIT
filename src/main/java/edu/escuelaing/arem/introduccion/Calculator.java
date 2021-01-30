@@ -12,6 +12,11 @@ import java.util.Collection;
  * @author Nicolas Ortega
  */
 public class Calculator {
+    /**
+     * @param in
+     * @param mean
+     * @return el valor calculado de la desviacion estandar
+     */
     public static double standardDeviation(Collection<Double> in, double mean){
         double res=0;
         int size = in.size();
@@ -20,6 +25,10 @@ public class Calculator {
         res=Math.sqrt(res);
         return res;
     }
+    /**
+     * @param in
+     * @return el valor calculado de la media
+     */
     public static double mean (Collection<Double> in){
         double res=0;
         int size=in.size();
