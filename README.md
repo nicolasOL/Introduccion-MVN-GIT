@@ -82,10 +82,10 @@ Pruebas ejecutandose satisfactoriamente:
   
 Para encontrar toda la documentación relacionada puedes hacer click [aqui](https://github.com/nicolasOL/Introduccion-MVN-GIT/tree/master/Doc)
   
-  ## Autor
+## Autor
   
-  Nicolas Ortega Limas
+Nicolas Ortega Limas
   
-  ## Licensia
+## Licencia
   
-  This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](https://github.com/nicolasOL/Introduccion-MVN-GIT/blob/master/LICENSE.txt)
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](https://github.com/nicolasOL/Introduccion-MVN-GIT/blob/master/LICENSE.txt)
