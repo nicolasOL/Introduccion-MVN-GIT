@@ -1,4 +1,4 @@
-# Escuela Colombiana de Ingeniería Julio Garavito - Arquitecturas Empresarial ARSW - Primer Trabajo
+# Escuela Colombiana de Ingeniería Julio Garavito - Arquitecturas Empresarial AREP - Primer Trabajo
 
 # Introduction to complex systems, JAVA, MVN, AND GIT
 
